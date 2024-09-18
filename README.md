@@ -1,6 +1,6 @@
 # Görkem Sandıkcı - Full Stack Developer Portfolio
 
-This project is a personal portfolio website for Görkem Sandıkcı, showcasing his skills, projects, and experience as a Full Stack Developer.
+This project is a personal portfolio website for Görkem Sandıkcı, showcasing his skills, projects, and experience as a Full Stack Developer..
 
 ## Technologies Used
 
